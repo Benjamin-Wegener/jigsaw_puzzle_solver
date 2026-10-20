@@ -1,4 +1,4 @@
-![](https://github.com/adam-blip/jigsaw_puzzle_solver/blob/main/logo.png)
+![Jigsaw Puzzle Solver](logo.png)
 # Jigsaw Puzzle Solver
 
 An advanced web-based application that uses computer vision to help find where puzzle pieces fit in complex puzzles with 500+ pieces.
